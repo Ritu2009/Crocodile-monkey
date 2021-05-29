@@ -1,4 +1,9 @@
 Once upon a time, there a lived a monkey who resides on a jamun tree, which was on the banks of river. 
 In the same forest lived crocodile and his wife. One day crocodile came to the bank of river and rested on a tree. 
 Once upon a time, there a lived a monkey who resides on a jamun tree, which was on the banks of river. 
-In the same forest lived crocodile and his wife. One day crocodile came to the bank of river and rested on a tree. 
+
+
+Crocodile was feeling thirsty
+Monkey came and provide him water
+:wq
+In the same forest lived crocodile and gis wife. One day crocodile came to the bank of river and rested on a tree. 
